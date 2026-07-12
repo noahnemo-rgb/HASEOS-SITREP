@@ -1,0 +1,7 @@
+# HASEOS disposition protocol: Confidential Internal Work Process items
+# must never enter this public repository's history.
+*-CIWP.md
+*CIWP*
+/archive/
+/_private/
+/exchanges/
