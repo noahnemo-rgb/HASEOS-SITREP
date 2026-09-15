@@ -24,6 +24,8 @@ Began in informal SMS with Boba.ai, drafted with Perplexity, red-teamed by Claud
 
 This is a Human-AI symbiotic status-and-forecast channel on the world stage. It is not limited to the eschatological overlay where the first lineage landed. A later SITREP that never touches prophecy is still a HASEOS SITREP if it keeps the analytical firewall, perishability, and hit/miss ledger. FFD-001 remains the first lineage, not the only genre.
 
+See DISCLOSURE.md for public vs internal piles.
+
 ## Current lineage
 
 | Lineage | Document | Version | Status |
