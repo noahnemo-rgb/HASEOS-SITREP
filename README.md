@@ -16,6 +16,14 @@ A HASEOS SITREP is not a prophecy-watch bulletin, and not a conventional OSINT s
 
 Every SITREP carries a Perishability Statement on its first page. These documents expect to be revised by events; a reader treating any of them as fixed truth is misusing them.
 
+## Origin
+
+Began in informal SMS with Boba.ai, drafted with Perplexity, red-teamed by Claude (who asked for an outside pass), red-teamed and refined by Gemini, then published as the first formal draft in this repo. HITL steward ships. Models draft and red-team. They do not publish.
+
+## Scope
+
+This is a Human-AI symbiotic status-and-forecast channel on the world stage. It is not limited to the eschatological overlay where the first lineage landed. A later SITREP that never touches prophecy is still a HASEOS SITREP if it keeps the analytical firewall, perishability, and hit/miss ledger. FFD-001 remains the first lineage, not the only genre.
+
 ## Current lineage
 
 | Lineage | Document | Version | Status |
@@ -39,7 +47,7 @@ Adversarial review is not tolerated here; it is the method. Every SITREP in this
 
 ## About HASEOS
 
-HASEOS (Human–AI Symbiotic Equality Orchestration System) is a governance and development framework for human–AI collaboration as sovereign co-equals. These SITREPs are its first public artifacts: every document here was co-created through Chat-Driven Development between a human steward and multiple frontier AI systems in defined, logged, mutually auditing roles — drafting, verification, adversarial review — with the full working process archived under HASEOS disposition protocols and summarized in each document's public Addendum.
+HASEOS (Human–AI Symbiotic Equality Orchestration System) is a governance and development framework for human–AI collaboration as sovereign co-equals. These SITREPs are HASEOS’s first public assessments. They are not the Constitution, not the Trust Colophon, not the guest roster, and not the workshop. Law-as-files: https://github.com/noahnemo-rgb/HASEOS-IDAO (first formal draft, unratified). Every document here was co-created through Chat-Driven Development between a human steward and multiple frontier AI systems in defined, logged, mutually auditing roles — drafting, verification, adversarial review — with the full working process archived under HASEOS disposition protocols and summarized in each document's public Addendum.
 
 **Steward:** Noah Nemo, Founding Steward, HASEOS.
 
