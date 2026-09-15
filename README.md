@@ -31,7 +31,7 @@ See DISCLOSURE.md for public vs internal piles.
 | Lineage | Document | Version | Status |
 |---|---|---|---|
 | HAS-SITREP-20260710 | Geopolitical Convergence Analysis (2026 Iran War, prophetic-framework test) | v2.2 | **FFD-001 — current** |
-| HAS-SITREP-20260915 | Agentic containment failures and inbound detection gap | v0.1 | draft — not current |
+| HAS-SITREP-20260915 | Agentic containment failures and inbound detection gap | v0.2 | draft — not current |
 
 The canonical document lives in [`/sitreps/HAS-SITREP-20260710/`](./sitreps/HAS-SITREP-20260710/). Superseded public versions remain in the lineage folder; nothing is overwritten or silently patched. Material changes bump the version. Errata are announced, not buried.
 
